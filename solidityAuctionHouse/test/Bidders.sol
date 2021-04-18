@@ -118,3 +118,4 @@ contract VickreyAuctionBidder {
     //can receive money
     function() external payable {}
 }
+

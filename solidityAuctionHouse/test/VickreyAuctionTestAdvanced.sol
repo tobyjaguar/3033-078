@@ -156,5 +156,4 @@ contract VickreyAuctionTestAdvanced {
         Assert.equal(address(bob).balance, 1617, "loser should received full refund");
         Assert.equal(address(carol).balance, 1033, "winner should received partial refund");
     }
-    
 }
