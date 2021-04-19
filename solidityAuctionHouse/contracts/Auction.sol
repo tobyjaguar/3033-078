@@ -1,3 +1,8 @@
+/// CISI-GA.3033-078
+/// Cryptocurrency and Decentralized Ledgers
+/// Spring 2021
+/// Project 2, Auctions
+/// Authored by Alex Lee and Toby Algya
 pragma solidity ^0.5.16;
 
 import "./Timer.sol";
