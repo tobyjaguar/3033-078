@@ -2,7 +2,7 @@
 /// Cryptocurrency and Decentralized Ledgers
 /// Spring 2021
 /// Project 2, Auctions
-/// Authored by Alex Lee and Toby Algya
+/// Authored by ta1749
 pragma solidity ^0.5.16;
 
 import "./Auction.sol";
